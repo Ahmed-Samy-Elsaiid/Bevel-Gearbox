@@ -3,7 +3,7 @@
 ![Bevel Gearbox](https://img.shields.io/badge/Mechanical-Design-blue) 
 ![AGMA Standards](https://img.shields.io/badge/AGMA-Compliant-green)
 
-A comprehensive design and analysis of a bevel gear transmission system developed for Mechanical Design III at Alexandria University.
+A comprehensive design and analysis of a bevel gear transmission system developed for Mechanical Design II at Alexandria University.
 
 ## 📌 Project Overview
 
