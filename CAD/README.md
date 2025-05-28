@@ -1,6 +1,6 @@
 # Bevel Gearbox CAD Models
 
-![SolidWorks Version](https://img.shields.io/badge/SolidWorks-2022-blue)
+![SolidWorks Version](https://img.shields.io/badge/SolidWorks-2023-blue)
 ![Last Update](https://img.shields.io/badge/Last_Update-4_minutes_ago-brightgreen)
 
 Complete CAD package for a bevel gearbox system. All files synchronized in the latest update.
@@ -25,7 +25,7 @@ Complete CAD package for a bevel gearbox system. All files synchronized in the l
 | `Drawing`   | 2D technical drawings (DWG)       |
 
 ## ⚠️ Important Notes
-- **Requirements**: SolidWorks 2022 or compatible
+- **Requirements**: SolidWorks 2023 or compatible
 - **All files updated**: 4 minutes ago
 - **ZIP file contains**: Complete working assembly with all references
 - **For collaborators**: Edit individual components before updating assemblies
