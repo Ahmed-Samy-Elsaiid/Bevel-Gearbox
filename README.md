@@ -36,7 +36,7 @@ This project presents a complete engineering solution for a bevel gear transmiss
 
 ```
 Bevel-Gearbox
-│── Cad
+│── CAD
 │   ├── Assembly.SLDASM    # Complete gearbox assembly
 │   ├── Pinion.SLDPRT      # Pinion 3D model
 │   ├── Gear.SLDPRT        # Gear 3D model
