@@ -49,10 +49,10 @@ Bevel-Gearbox
 │   └── Drawing                   # Technical drawings (2D blueprints)
 │
 │── Calculations
-│   └── EES_Code.EES              # Engineering Equation Solver script
+│   └── Calculations.EES              # Engineering Equation Solver script
 │
 │── Documentation
-│   └── Project_Report.pdf        # Complete design report
+│   └── Design report.pdf        # Complete design report
 │
 └── README.md                     # Project documentation
 ```
