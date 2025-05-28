@@ -89,6 +89,9 @@ Bevel-Gearbox
 3. SKF Bearing Catalogue (2022)
 4. GearTrax by Camnetics
 
+## 📄 License
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+Free for educational and non-commercial use. For commercial applications, please contact the author.
 
 ---
 
