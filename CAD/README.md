@@ -1,7 +1,6 @@
-# Bevel Gearbox Design Project
+# Bevel Gearbox CAD Design
 
 ![Bevel Gearbox](https://img.shields.io/badge/Mechanical-Design-blue) 
-![AGMA Standards](https://img.shields.io/badge/AGMA-Compliant-green)
 
 A comprehensive design and analysis of a bevel gear transmission system developed for Mechanical Design II at Alexandria University.
 
