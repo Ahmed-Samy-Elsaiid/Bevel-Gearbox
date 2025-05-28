@@ -6,23 +6,23 @@
 Complete CAD package for a bevel gearbox system. All files synchronized in the latest update.
 
 ## 🚀 Quick Start
-1. **[Download Bevel-Gearbox.zip](Bevel-Gearbox.zip)**
+1. **Download Bevel-Gearbox.zip**
 2. Extract the archive
-3. Open `Assembly/` in SolidWorks
+3. Open `Gear box assembly` in SolidWorks
 
 ## 📂 File Contents
 | Folder       | Contents                          |
 |--------------|-----------------------------------|
-| `Assembly/`  | Main gearbox assembly             |
-| `Casing/`    | Housing and enclosure components  |
-| `Gears/`     | Pinion and driven gear            |
-| `Shafts/`    | Input/output shafts               |
-| `Keys/`      | Shaft key components              |
-| `Caps/`      | End caps and covers               |
-| `Gaskets/`   | Sealing gaskets                   |
-| `Oil/`       | Lubrication components            |
-| `Sealing/`   | Additional seals                  |
-| `Drawing/`   | 2D technical drawings (DWG)       |
+| `Assembly`  | Main gearbox assembly             |
+| `Casing`    | Housing and enclosure components  |
+| `Gears`     | Pinion and driven gear            |
+| `Shafts`    | Input/output shafts               |
+| `Keys`      | Shaft key components              |
+| `Caps`      | End caps and covers               |
+| `Gaskets`   | Sealing gaskets                   |
+| `Oil`       | Lubrication components            |
+| `Sealing`   | Additional seals                  |
+| `Drawing`   | 2D technical drawings (DWG)       |
 
 ## ⚠️ Important Notes
 - **Requirements**: SolidWorks 2022 or compatible
