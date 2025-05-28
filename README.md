@@ -34,20 +34,29 @@ This project presents a complete engineering solution for a bevel gear transmiss
 
 ## 📂 Repository Structure
 
-Bevel-Gearbox
-│── CAD
-│   ├── Assembly.SLDASM    # Complete gearbox assembly
-│   ├── Pinion.SLDPRT      # Pinion 3D model
-│   ├── Gear.SLDPRT        # Gear 3D model
-│   └── Assembly.DWG       # 2D technical drawings
-│
-│── Calculations
-│   └── EES_Code.EES       # Engineering Equation Solver script
-│
-│── Documentation
-│   └── Project_Report.pdf # Complete design report
-│
-└── README.md              # Project documentation
+from operator import itemgetter
+from tree_format import format_tree
+
+tree = (
+    'Bevel-Gearbox', [
+        ('CAD', [
+            ('Assembly.SLDASM', []),
+            ('Pinion.SLDPRT', []),
+            ('Gear.SLDPRT', []),
+            ('Assembly.DWG', []),
+        ]),
+        ('Calculations', [
+            ('EES_Code.EES', []),
+        ]),
+        ('Documentation', [
+            ('Project_Report.pdf', []),
+        ]),
+        ('README.md', []),
+    ],
+)
+
+print(format_tree(
+    tree, format_node=itemgetter(0), get_children=itemgetter(1)))
 
 ## 🧑‍💻 Team Members
 
