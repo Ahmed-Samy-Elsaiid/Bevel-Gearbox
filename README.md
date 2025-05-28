@@ -36,19 +36,25 @@ This project presents a complete engineering solution for a bevel gear transmiss
 
 ```
 Bevel-Gearbox
-│── CAD
-│   ├── Assembly.SLDASM    # Complete gearbox assembly
-│   ├── Pinion.SLDPRT      # Pinion 3D model
-│   ├── Gear.SLDPRT        # Gear 3D model
-│   └── Assembly.DWG       # 2D technical drawings
+├── CAD
+│   ├── Assembly                  # Main gearbox assembly and subassemblies
+│   ├── Casing                    # Housing and structural components
+│   ├── Gears                     # Bevel gear pair (pinion and wheel)
+│   ├── Shafts                    # Rotating shaft components
+│   ├── Keys                      # Keyways and power transmission keys
+│   ├── Caps                      # Bearing caps and end covers
+│   ├── Gaskets                   # Sealing interfaces
+│   ├── Oil                       # Lubrication system components
+│   ├── Sealing                   # Dynamic sealing elements
+│   └── Drawing                   # Technical drawings (2D blueprints)
 │
 │── Calculations
-│   └── EES_Code.EES       # Engineering Equation Solver script
+│   └── EES_Code.EES              # Engineering Equation Solver script
 │
 │── Documentation
-│   └── Project_Report.pdf # Complete design report
+│   └── Project_Report.pdf        # Complete design report
 │
-└── README.md              # Project documentation
+└── README.md                     # Project documentation
 ```
 
 ## 🧑‍💻 Team Members
