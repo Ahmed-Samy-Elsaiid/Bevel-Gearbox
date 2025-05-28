@@ -93,5 +93,5 @@ Bevel-Gearbox
 ---
 
 <div align="center">
-  <i>Developed with ❤️ by Team 21 | Alexandria University | Mechanical Design III - Spring 2025</i>
+  <i>Developed with ❤️ by Team 21 | Alexandria University | Mechanical Design II - Spring 2025</i>
 </div>
