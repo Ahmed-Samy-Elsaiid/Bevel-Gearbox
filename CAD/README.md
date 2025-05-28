@@ -41,3 +41,7 @@ If files appear missing:
 Free for educational and non-commercial use. For commercial applications, please contact the author.
 
 ---
+
+<div align="center">
+  <i>Developed with ❤️ by Team 21 | Alexandria University | Mechanical Design II - Spring 2025</i>
+</div>
